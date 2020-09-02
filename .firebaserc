@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "intern-72513": {
+      "hosting": {
+        "intern": [
+          "intern-72513"
+        ]
+      }
+    }
+  }
+}
